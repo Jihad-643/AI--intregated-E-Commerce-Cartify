@@ -140,7 +140,7 @@ const Navbar = () => {
             })}
           </div>
 
-          {/* User Menu / Login Button */}
+          {/* User Menu / Login Button adeded */}
           <motion.div
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
